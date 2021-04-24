@@ -1,0 +1,55 @@
+/*header*/
+/* @media (max-width: 768px) {
+  .header-area {
+    margin-top: 12rem !important;
+  }
+
+  .welcome-area {
+    margin-top: 12rem !important;
+  }
+
+  .head-icon {
+    height: 12rem !important;
+  }
+
+  .head-icon .icon {
+    height: 45% !important;
+  }
+} */
+.ribz a img{
+  height: 45px;
+  margin-top: 5px;
+}
+.ribzo{
+  height: 6rem;
+}
+.ribz{
+  margin-left: 10px;
+}
+.header-area{
+  margin-top: 6rem;
+}
+@media screen and (max-width: 740px){
+  .ribz a img{
+    height: 30px;
+  }
+
+  
+}
+
+@media screen and (max-width: 541px){
+  .ribzo{
+    height: 8.3rem;
+  }
+  .header-area{
+    margin-top: 8rem;
+  }
+}
+@media screen and (max-width: 345px){
+  .ribz a img{
+    height: 25px;
+  }
+  .ribz{
+    margin-left: 5px;
+  }
+}
